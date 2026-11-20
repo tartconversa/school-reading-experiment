@@ -1,0 +1,7088 @@
+{
+  "schools": [
+    {
+      "id": "C1",
+      "area": "乡村",
+      "devices": 8
+    },
+    {
+      "id": "C2",
+      "area": "城区",
+      "devices": 10
+    },
+    {
+      "id": "C3",
+      "area": "乡村",
+      "devices": 12
+    },
+    {
+      "id": "C4",
+      "area": "城区",
+      "devices": 14
+    },
+    {
+      "id": "C5",
+      "area": "乡村",
+      "devices": 16
+    },
+    {
+      "id": "C6",
+      "area": "城区",
+      "devices": 18
+    },
+    {
+      "id": "C7",
+      "area": "乡村",
+      "devices": 20
+    },
+    {
+      "id": "C8",
+      "area": "城区",
+      "devices": 22
+    },
+    {
+      "id": "C9",
+      "area": "乡村",
+      "devices": 24
+    },
+    {
+      "id": "C10",
+      "area": "城区",
+      "devices": 26
+    },
+    {
+      "id": "C11",
+      "area": "乡村",
+      "devices": 28
+    },
+    {
+      "id": "C12",
+      "area": "城区",
+      "devices": 30
+    }
+  ],
+  "people": [
+    {
+      "id": "P001",
+      "school_id": "C1",
+      "household": "H000",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P002",
+      "school_id": "C2",
+      "household": "H000",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P003",
+      "school_id": "C3",
+      "household": "H001",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P004",
+      "school_id": "C4",
+      "household": "H001",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P005",
+      "school_id": "C5",
+      "household": "H002",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P006",
+      "school_id": "C6",
+      "household": "H002",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P007",
+      "school_id": "C7",
+      "household": "H003",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P008",
+      "school_id": "C8",
+      "household": "H003",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P009",
+      "school_id": "C9",
+      "household": "H004",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P010",
+      "school_id": "C10",
+      "household": "H004",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P011",
+      "school_id": "C11",
+      "household": "H005",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P012",
+      "school_id": "C12",
+      "household": "H005",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P013",
+      "school_id": "C1",
+      "household": "H006",
+      "grade": 4,
+      "access_need": "audio",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P014",
+      "school_id": "C2",
+      "household": "H006",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P015",
+      "school_id": "C3",
+      "household": "H007",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P016",
+      "school_id": "C4",
+      "household": "H007",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P017",
+      "school_id": "C5",
+      "household": "H008",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P018",
+      "school_id": "C6",
+      "household": "H008",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P019",
+      "school_id": "C7",
+      "household": "H009",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P020",
+      "school_id": "C8",
+      "household": "H009",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P021",
+      "school_id": "C9",
+      "household": "H010",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P022",
+      "school_id": "C10",
+      "household": "H010",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P023",
+      "school_id": "C11",
+      "household": "H011",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P024",
+      "school_id": "C12",
+      "household": "H011",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P025",
+      "school_id": "C1",
+      "household": "H012",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P026",
+      "school_id": "C2",
+      "household": "H012",
+      "grade": 5,
+      "access_need": "audio",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P027",
+      "school_id": "C3",
+      "household": "H013",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P028",
+      "school_id": "C4",
+      "household": "H013",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P029",
+      "school_id": "C5",
+      "household": "H014",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P030",
+      "school_id": "C6",
+      "household": "H014",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P031",
+      "school_id": "C7",
+      "household": "H015",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P032",
+      "school_id": "C8",
+      "household": "H015",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P033",
+      "school_id": "C9",
+      "household": "H016",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P034",
+      "school_id": "C10",
+      "household": "H016",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P035",
+      "school_id": "C11",
+      "household": "H017",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P036",
+      "school_id": "C12",
+      "household": "H017",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P037",
+      "school_id": "C1",
+      "household": "H018",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P038",
+      "school_id": "C2",
+      "household": "H018",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P039",
+      "school_id": "C3",
+      "household": "H019",
+      "grade": 6,
+      "access_need": "audio",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P040",
+      "school_id": "C4",
+      "household": "H019",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P041",
+      "school_id": "C5",
+      "household": "H020",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P042",
+      "school_id": "C6",
+      "household": "H020",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P043",
+      "school_id": "C7",
+      "household": "H021",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P044",
+      "school_id": "C8",
+      "household": "H021",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P045",
+      "school_id": "C9",
+      "household": "H022",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P046",
+      "school_id": "C10",
+      "household": "H022",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P047",
+      "school_id": "C11",
+      "household": "H023",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P048",
+      "school_id": "C12",
+      "household": "H023",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P049",
+      "school_id": "C1",
+      "household": "H024",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P050",
+      "school_id": "C2",
+      "household": "H024",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P051",
+      "school_id": "C3",
+      "household": "H025",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P052",
+      "school_id": "C4",
+      "household": "H025",
+      "grade": 3,
+      "access_need": "audio",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P053",
+      "school_id": "C5",
+      "household": "H026",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P054",
+      "school_id": "C6",
+      "household": "H026",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P055",
+      "school_id": "C7",
+      "household": "H027",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P056",
+      "school_id": "C8",
+      "household": "H027",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P057",
+      "school_id": "C9",
+      "household": "H028",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P058",
+      "school_id": "C10",
+      "household": "H028",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P059",
+      "school_id": "C11",
+      "household": "H029",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P060",
+      "school_id": "C12",
+      "household": "H029",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P061",
+      "school_id": "C1",
+      "household": "H030",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P062",
+      "school_id": "C2",
+      "household": "H030",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P063",
+      "school_id": "C3",
+      "household": "H031",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P064",
+      "school_id": "C4",
+      "household": "H031",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P065",
+      "school_id": "C5",
+      "household": "H032",
+      "grade": 4,
+      "access_need": "audio",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P066",
+      "school_id": "C6",
+      "household": "H032",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P067",
+      "school_id": "C7",
+      "household": "H033",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P068",
+      "school_id": "C8",
+      "household": "H033",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P069",
+      "school_id": "C9",
+      "household": "H034",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P070",
+      "school_id": "C10",
+      "household": "H034",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P071",
+      "school_id": "C11",
+      "household": "H035",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P072",
+      "school_id": "C12",
+      "household": "H035",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P073",
+      "school_id": "C1",
+      "household": "H036",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P074",
+      "school_id": "C2",
+      "household": "H036",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P075",
+      "school_id": "C3",
+      "household": "H037",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P076",
+      "school_id": "C4",
+      "household": "H037",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P077",
+      "school_id": "C5",
+      "household": "H038",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P078",
+      "school_id": "C6",
+      "household": "H038",
+      "grade": 5,
+      "access_need": "audio",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P079",
+      "school_id": "C7",
+      "household": "H039",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P080",
+      "school_id": "C8",
+      "household": "H039",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P081",
+      "school_id": "C9",
+      "household": "H040",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P082",
+      "school_id": "C10",
+      "household": "H040",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P083",
+      "school_id": "C11",
+      "household": "H041",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P084",
+      "school_id": "C12",
+      "household": "H041",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P085",
+      "school_id": "C1",
+      "household": "H042",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P086",
+      "school_id": "C2",
+      "household": "H042",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P087",
+      "school_id": "C3",
+      "household": "H043",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P088",
+      "school_id": "C4",
+      "household": "H043",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P089",
+      "school_id": "C5",
+      "household": "H044",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P090",
+      "school_id": "C6",
+      "household": "H044",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P091",
+      "school_id": "C7",
+      "household": "H045",
+      "grade": 6,
+      "access_need": "audio",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P092",
+      "school_id": "C8",
+      "household": "H045",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P093",
+      "school_id": "C9",
+      "household": "H046",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P094",
+      "school_id": "C10",
+      "household": "H046",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P095",
+      "school_id": "C11",
+      "household": "H047",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P096",
+      "school_id": "C12",
+      "household": "H047",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P097",
+      "school_id": "C1",
+      "household": "H048",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P098",
+      "school_id": "C2",
+      "household": "H048",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P099",
+      "school_id": "C3",
+      "household": "H049",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P100",
+      "school_id": "C4",
+      "household": "H049",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P101",
+      "school_id": "C5",
+      "household": "H050",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P102",
+      "school_id": "C6",
+      "household": "H050",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P103",
+      "school_id": "C7",
+      "household": "H051",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P104",
+      "school_id": "C8",
+      "household": "H051",
+      "grade": 3,
+      "access_need": "audio",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P105",
+      "school_id": "C9",
+      "household": "H052",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P106",
+      "school_id": "C10",
+      "household": "H052",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P107",
+      "school_id": "C11",
+      "household": "H053",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P108",
+      "school_id": "C12",
+      "household": "H053",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P109",
+      "school_id": "C1",
+      "household": "H054",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P110",
+      "school_id": "C2",
+      "household": "H054",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P111",
+      "school_id": "C3",
+      "household": "H055",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P112",
+      "school_id": "C4",
+      "household": "H055",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P113",
+      "school_id": "C5",
+      "household": "H056",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P114",
+      "school_id": "C6",
+      "household": "H056",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P115",
+      "school_id": "C7",
+      "household": "H057",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P116",
+      "school_id": "C8",
+      "household": "H057",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P117",
+      "school_id": "C9",
+      "household": "H058",
+      "grade": 4,
+      "access_need": "audio",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P118",
+      "school_id": "C10",
+      "household": "H058",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P119",
+      "school_id": "C11",
+      "household": "H059",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P120",
+      "school_id": "C12",
+      "household": "H059",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P121",
+      "school_id": "C1",
+      "household": "H060",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P122",
+      "school_id": "C2",
+      "household": "H060",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P123",
+      "school_id": "C3",
+      "household": "H061",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P124",
+      "school_id": "C4",
+      "household": "H061",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P125",
+      "school_id": "C5",
+      "household": "H062",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P126",
+      "school_id": "C6",
+      "household": "H062",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P127",
+      "school_id": "C7",
+      "household": "H063",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P128",
+      "school_id": "C8",
+      "household": "H063",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P129",
+      "school_id": "C9",
+      "household": "H064",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P130",
+      "school_id": "C10",
+      "household": "H064",
+      "grade": 5,
+      "access_need": "audio",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P131",
+      "school_id": "C11",
+      "household": "H065",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P132",
+      "school_id": "C12",
+      "household": "H065",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P133",
+      "school_id": "C1",
+      "household": "H066",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P134",
+      "school_id": "C2",
+      "household": "H066",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P135",
+      "school_id": "C3",
+      "household": "H067",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P136",
+      "school_id": "C4",
+      "household": "H067",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P137",
+      "school_id": "C5",
+      "household": "H068",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P138",
+      "school_id": "C6",
+      "household": "H068",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P139",
+      "school_id": "C7",
+      "household": "H069",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P140",
+      "school_id": "C8",
+      "household": "H069",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P141",
+      "school_id": "C9",
+      "household": "H070",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P142",
+      "school_id": "C10",
+      "household": "H070",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P143",
+      "school_id": "C11",
+      "household": "H071",
+      "grade": 6,
+      "access_need": "audio",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P144",
+      "school_id": "C12",
+      "household": "H071",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P145",
+      "school_id": "C1",
+      "household": "H072",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P146",
+      "school_id": "C2",
+      "household": "H072",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P147",
+      "school_id": "C3",
+      "household": "H073",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P148",
+      "school_id": "C4",
+      "household": "H073",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P149",
+      "school_id": "C5",
+      "household": "H074",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P150",
+      "school_id": "C6",
+      "household": "H074",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P151",
+      "school_id": "C7",
+      "household": "H075",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P152",
+      "school_id": "C8",
+      "household": "H075",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P153",
+      "school_id": "C9",
+      "household": "H076",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P154",
+      "school_id": "C10",
+      "household": "H076",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P155",
+      "school_id": "C11",
+      "household": "H077",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P156",
+      "school_id": "C12",
+      "household": "H077",
+      "grade": 3,
+      "access_need": "audio",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P157",
+      "school_id": "C1",
+      "household": "H078",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P158",
+      "school_id": "C2",
+      "household": "H078",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P159",
+      "school_id": "C3",
+      "household": "H079",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P160",
+      "school_id": "C4",
+      "household": "H079",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P161",
+      "school_id": "C5",
+      "household": "H080",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P162",
+      "school_id": "C6",
+      "household": "H080",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P163",
+      "school_id": "C7",
+      "household": "H081",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P164",
+      "school_id": "C8",
+      "household": "H081",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P165",
+      "school_id": "C9",
+      "household": "H082",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P166",
+      "school_id": "C10",
+      "household": "H082",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P167",
+      "school_id": "C11",
+      "household": "H083",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P168",
+      "school_id": "C12",
+      "household": "H083",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P169",
+      "school_id": "C1",
+      "household": "H084",
+      "grade": 4,
+      "access_need": "audio",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P170",
+      "school_id": "C2",
+      "household": "H084",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P171",
+      "school_id": "C3",
+      "household": "H085",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P172",
+      "school_id": "C4",
+      "household": "H085",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P173",
+      "school_id": "C5",
+      "household": "H086",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P174",
+      "school_id": "C6",
+      "household": "H086",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P175",
+      "school_id": "C7",
+      "household": "H087",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P176",
+      "school_id": "C8",
+      "household": "H087",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P177",
+      "school_id": "C9",
+      "household": "H088",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P178",
+      "school_id": "C10",
+      "household": "H088",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P179",
+      "school_id": "C11",
+      "household": "H089",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P180",
+      "school_id": "C12",
+      "household": "H089",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P181",
+      "school_id": "C1",
+      "household": "H090",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P182",
+      "school_id": "C2",
+      "household": "H090",
+      "grade": 5,
+      "access_need": "audio",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P183",
+      "school_id": "C3",
+      "household": "H091",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P184",
+      "school_id": "C4",
+      "household": "H091",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P185",
+      "school_id": "C5",
+      "household": "H092",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 2.1
+    },
+    {
+      "id": "P186",
+      "school_id": "C6",
+      "household": "H092",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 2.4
+    },
+    {
+      "id": "P187",
+      "school_id": "C7",
+      "household": "H093",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 2.7
+    },
+    {
+      "id": "P188",
+      "school_id": "C8",
+      "household": "H093",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 3.0
+    },
+    {
+      "id": "P189",
+      "school_id": "C9",
+      "household": "H094",
+      "grade": 4,
+      "access_need": "text",
+      "sample_weight": 1.2
+    },
+    {
+      "id": "P190",
+      "school_id": "C10",
+      "household": "H094",
+      "grade": 5,
+      "access_need": "text",
+      "sample_weight": 1.5
+    },
+    {
+      "id": "P191",
+      "school_id": "C11",
+      "household": "H095",
+      "grade": 6,
+      "access_need": "text",
+      "sample_weight": 1.8
+    },
+    {
+      "id": "P192",
+      "school_id": "C12",
+      "household": "H095",
+      "grade": 3,
+      "access_need": "text",
+      "sample_weight": 2.1
+    }
+  ],
+  "protocols": [
+    {
+      "id": "X1",
+      "registered_on": "2026-02-01",
+      "unit": "school",
+      "primary": "understanding",
+      "minimum_gain": 3.0,
+      "alpha": 0.05,
+      "formal_looks": 2,
+      "look_dates": [
+        "2026-06-30",
+        "2026-09-30"
+      ],
+      "resource_hours": 40
+    }
+  ],
+  "allocations": [
+    {
+      "id": "A1",
+      "school_id": "C1",
+      "trial_id": "X1",
+      "arm": "reading",
+      "assigned_on": "2026-02-15",
+      "start": "2026-03-01",
+      "end": "2026-06-15"
+    },
+    {
+      "id": "A2",
+      "school_id": "C2",
+      "trial_id": "X1",
+      "arm": "usual",
+      "assigned_on": "2026-02-15",
+      "start": "2026-03-01",
+      "end": "2026-06-15"
+    },
+    {
+      "id": "A3",
+      "school_id": "C3",
+      "trial_id": "X1",
+      "arm": "reading",
+      "assigned_on": "2026-02-15",
+      "start": "2026-03-01",
+      "end": "2026-06-15"
+    },
+    {
+      "id": "A4",
+      "school_id": "C4",
+      "trial_id": "X1",
+      "arm": "usual",
+      "assigned_on": "2026-02-15",
+      "start": "2026-03-01",
+      "end": "2026-06-15"
+    },
+    {
+      "id": "A5",
+      "school_id": "C5",
+      "trial_id": "X1",
+      "arm": "reading",
+      "assigned_on": "2026-02-15",
+      "start": "2026-03-01",
+      "end": "2026-06-15"
+    },
+    {
+      "id": "A6",
+      "school_id": "C6",
+      "trial_id": "X1",
+      "arm": "usual",
+      "assigned_on": "2026-02-15",
+      "start": "2026-03-01",
+      "end": "2026-06-15"
+    },
+    {
+      "id": "A7",
+      "school_id": "C7",
+      "trial_id": "X1",
+      "arm": "reading",
+      "assigned_on": "2026-02-15",
+      "start": "2026-03-01",
+      "end": "2026-06-15"
+    },
+    {
+      "id": "A8",
+      "school_id": "C8",
+      "trial_id": "X1",
+      "arm": "usual",
+      "assigned_on": "2026-02-15",
+      "start": "2026-03-01",
+      "end": "2026-06-15"
+    },
+    {
+      "id": "A9",
+      "school_id": "C9",
+      "trial_id": "X1",
+      "arm": "reading",
+      "assigned_on": "2026-02-15",
+      "start": "2026-03-01",
+      "end": "2026-06-15"
+    },
+    {
+      "id": "A10",
+      "school_id": "C10",
+      "trial_id": "X1",
+      "arm": "usual",
+      "assigned_on": "2026-02-15",
+      "start": "2026-03-01",
+      "end": "2026-06-15"
+    },
+    {
+      "id": "A11",
+      "school_id": "C11",
+      "trial_id": "X1",
+      "arm": "reading",
+      "assigned_on": "2026-02-15",
+      "start": "2026-03-01",
+      "end": "2026-06-15"
+    },
+    {
+      "id": "A12",
+      "school_id": "C12",
+      "trial_id": "X1",
+      "arm": "usual",
+      "assigned_on": "2026-02-15",
+      "start": "2026-03-01",
+      "end": "2026-06-15"
+    }
+  ],
+  "observations": [
+    {
+      "id": "O1",
+      "person_id": "P001",
+      "on": "2026-02-20",
+      "score": 55.61,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O2",
+      "person_id": "P001",
+      "on": "2026-06-15",
+      "score": 51.83,
+      "reason": null,
+      "received_on": "2026-10-02",
+      "actually_attended": 11
+    },
+    {
+      "id": "O3",
+      "person_id": "P001",
+      "on": "2026-09-15",
+      "score": 46.09,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O4",
+      "person_id": "P002",
+      "on": "2026-02-20",
+      "score": 46.03,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O5",
+      "person_id": "P002",
+      "on": "2026-06-15",
+      "score": 58.23,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O6",
+      "person_id": "P002",
+      "on": "2026-09-15",
+      "score": 50.01,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O7",
+      "person_id": "P003",
+      "on": "2026-02-20",
+      "score": 49.53,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O8",
+      "person_id": "P003",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O9",
+      "person_id": "P003",
+      "on": "2026-09-15",
+      "score": 62.34,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O10",
+      "person_id": "P004",
+      "on": "2026-02-20",
+      "score": 64.61,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O11",
+      "person_id": "P004",
+      "on": "2026-06-15",
+      "score": 57.26,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O12",
+      "person_id": "P004",
+      "on": "2026-09-15",
+      "score": 63.23,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O13",
+      "person_id": "P005",
+      "on": "2026-02-20",
+      "score": 56.2,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O14",
+      "person_id": "P005",
+      "on": "2026-06-15",
+      "score": 58.11,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O15",
+      "person_id": "P005",
+      "on": "2026-09-15",
+      "score": 77.94,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O16",
+      "person_id": "P006",
+      "on": "2026-02-20",
+      "score": 80.08,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O17",
+      "person_id": "P006",
+      "on": "2026-06-15",
+      "score": 59.27,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O18",
+      "person_id": "P006",
+      "on": "2026-09-15",
+      "score": 63.41,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O19",
+      "person_id": "P007",
+      "on": "2026-02-20",
+      "score": 52.73,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O20",
+      "person_id": "P007",
+      "on": "2026-06-15",
+      "score": 54.7,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O21",
+      "person_id": "P007",
+      "on": "2026-09-15",
+      "score": 41.89,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O22",
+      "person_id": "P008",
+      "on": "2026-02-20",
+      "score": 35.61,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O23",
+      "person_id": "P008",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O24",
+      "person_id": "P008",
+      "on": "2026-09-15",
+      "score": 57.67,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O25",
+      "person_id": "P009",
+      "on": "2026-02-20",
+      "score": 37.13,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O26",
+      "person_id": "P009",
+      "on": "2026-06-15",
+      "score": 29.34,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O27",
+      "person_id": "P009",
+      "on": "2026-09-15",
+      "score": 41.35,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O28",
+      "person_id": "P010",
+      "on": "2026-02-20",
+      "score": 34.96,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O29",
+      "person_id": "P010",
+      "on": "2026-06-15",
+      "score": 57.51,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O30",
+      "person_id": "P010",
+      "on": "2026-09-15",
+      "score": 49.69,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O31",
+      "person_id": "P011",
+      "on": "2026-02-20",
+      "score": 44.21,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O32",
+      "person_id": "P011",
+      "on": "2026-06-15",
+      "score": 67.48,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O33",
+      "person_id": "P011",
+      "on": "2026-09-15",
+      "score": 43.22,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O34",
+      "person_id": "P012",
+      "on": "2026-02-20",
+      "score": 43.17,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O35",
+      "person_id": "P012",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O36",
+      "person_id": "P012",
+      "on": "2026-09-15",
+      "score": 55.03,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O37",
+      "person_id": "P013",
+      "on": "2026-02-20",
+      "score": 65.6,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O38",
+      "person_id": "P013",
+      "on": "2026-06-15",
+      "score": 60.99,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O39",
+      "person_id": "P013",
+      "on": "2026-09-15",
+      "score": 81.38,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O40",
+      "person_id": "P014",
+      "on": "2026-02-20",
+      "score": 44.05,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O41",
+      "person_id": "P014",
+      "on": "2026-06-15",
+      "score": 49.05,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O42",
+      "person_id": "P014",
+      "on": "2026-09-15",
+      "score": 56.62,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O43",
+      "person_id": "P015",
+      "on": "2026-02-20",
+      "score": 49.92,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O44",
+      "person_id": "P015",
+      "on": "2026-06-15",
+      "score": 78.47,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O45",
+      "person_id": "P015",
+      "on": "2026-09-15",
+      "score": 71.72,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O46",
+      "person_id": "P016",
+      "on": "2026-02-20",
+      "score": 45.66,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O47",
+      "person_id": "P016",
+      "on": "2026-06-15",
+      "score": 36.4,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O48",
+      "person_id": "P016",
+      "on": "2026-09-15",
+      "score": 57.13,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O49",
+      "person_id": "P017",
+      "on": "2026-02-20",
+      "score": 49.84,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O50",
+      "person_id": "P017",
+      "on": "2026-06-15",
+      "score": 56.77,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O51",
+      "person_id": "P017",
+      "on": "2026-09-15",
+      "score": 51.2,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O52",
+      "person_id": "P018",
+      "on": "2026-02-20",
+      "score": 49.34,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O53",
+      "person_id": "P018",
+      "on": "2026-06-15",
+      "score": 55.81,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O54",
+      "person_id": "P018",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O55",
+      "person_id": "P019",
+      "on": "2026-02-20",
+      "score": 50.34,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O56",
+      "person_id": "P019",
+      "on": "2026-06-15",
+      "score": 36.27,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O57",
+      "person_id": "P019",
+      "on": "2026-09-15",
+      "score": 52.68,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O58",
+      "person_id": "P020",
+      "on": "2026-02-20",
+      "score": 62.26,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O59",
+      "person_id": "P020",
+      "on": "2026-06-15",
+      "score": 65.08,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O60",
+      "person_id": "P020",
+      "on": "2026-09-15",
+      "score": 73.26,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O61",
+      "person_id": "P021",
+      "on": "2026-02-20",
+      "score": 61.49,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O62",
+      "person_id": "P021",
+      "on": "2026-06-15",
+      "score": 67.17,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O63",
+      "person_id": "P021",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O64",
+      "person_id": "P022",
+      "on": "2026-02-20",
+      "score": 42.4,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O65",
+      "person_id": "P022",
+      "on": "2026-06-15",
+      "score": 42.5,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O66",
+      "person_id": "P022",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O67",
+      "person_id": "P023",
+      "on": "2026-02-20",
+      "score": 60.9,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O68",
+      "person_id": "P023",
+      "on": "2026-06-15",
+      "score": 51.22,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O69",
+      "person_id": "P023",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O70",
+      "person_id": "P024",
+      "on": "2026-02-20",
+      "score": 42.95,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O71",
+      "person_id": "P024",
+      "on": "2026-06-15",
+      "score": 54.91,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O72",
+      "person_id": "P024",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O73",
+      "person_id": "P025",
+      "on": "2026-02-20",
+      "score": 73.86,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O74",
+      "person_id": "P025",
+      "on": "2026-06-15",
+      "score": 64.83,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O75",
+      "person_id": "P025",
+      "on": "2026-09-15",
+      "score": 55.19,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O76",
+      "person_id": "P026",
+      "on": "2026-02-20",
+      "score": 45.38,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O77",
+      "person_id": "P026",
+      "on": "2026-06-15",
+      "score": 54.93,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O78",
+      "person_id": "P026",
+      "on": "2026-09-15",
+      "score": 66.34,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O79",
+      "person_id": "P027",
+      "on": "2026-02-20",
+      "score": 65.18,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O80",
+      "person_id": "P027",
+      "on": "2026-06-15",
+      "score": 59.25,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O81",
+      "person_id": "P027",
+      "on": "2026-09-15",
+      "score": 70.38,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O82",
+      "person_id": "P028",
+      "on": "2026-02-20",
+      "score": 50.6,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O83",
+      "person_id": "P028",
+      "on": "2026-06-15",
+      "score": 45.72,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O84",
+      "person_id": "P028",
+      "on": "2026-09-15",
+      "score": 51.32,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O85",
+      "person_id": "P029",
+      "on": "2026-02-20",
+      "score": 56.5,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O86",
+      "person_id": "P029",
+      "on": "2026-06-15",
+      "score": 76.55,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O87",
+      "person_id": "P029",
+      "on": "2026-09-15",
+      "score": 89.34,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O88",
+      "person_id": "P030",
+      "on": "2026-02-20",
+      "score": 51.31,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O89",
+      "person_id": "P030",
+      "on": "2026-06-15",
+      "score": 37.13,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O90",
+      "person_id": "P030",
+      "on": "2026-09-15",
+      "score": 52.45,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O91",
+      "person_id": "P031",
+      "on": "2026-02-20",
+      "score": 64.42,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O92",
+      "person_id": "P031",
+      "on": "2026-06-15",
+      "score": 47.09,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O93",
+      "person_id": "P031",
+      "on": "2026-09-15",
+      "score": 55.08,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O94",
+      "person_id": "P032",
+      "on": "2026-02-20",
+      "score": 59.41,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O95",
+      "person_id": "P032",
+      "on": "2026-06-15",
+      "score": 67.67,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O96",
+      "person_id": "P032",
+      "on": "2026-09-15",
+      "score": 74.45,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O97",
+      "person_id": "P033",
+      "on": "2026-02-20",
+      "score": 53.74,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O98",
+      "person_id": "P033",
+      "on": "2026-06-15",
+      "score": 55.02,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O99",
+      "person_id": "P033",
+      "on": "2026-09-15",
+      "score": 56.03,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O100",
+      "person_id": "P034",
+      "on": "2026-02-20",
+      "score": 69.23,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O101",
+      "person_id": "P034",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O102",
+      "person_id": "P034",
+      "on": "2026-09-15",
+      "score": 68.81,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O103",
+      "person_id": "P035",
+      "on": "2026-02-20",
+      "score": 66.1,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O104",
+      "person_id": "P035",
+      "on": "2026-06-15",
+      "score": 69.66,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O105",
+      "person_id": "P035",
+      "on": "2026-09-15",
+      "score": 78.36,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O106",
+      "person_id": "P036",
+      "on": "2026-02-20",
+      "score": 43.3,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O107",
+      "person_id": "P036",
+      "on": "2026-06-15",
+      "score": 48.85,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O108",
+      "person_id": "P036",
+      "on": "2026-09-15",
+      "score": 48.43,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O109",
+      "person_id": "P037",
+      "on": "2026-02-20",
+      "score": 72.81,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O110",
+      "person_id": "P037",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O111",
+      "person_id": "P037",
+      "on": "2026-09-15",
+      "score": 70.11,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O112",
+      "person_id": "P038",
+      "on": "2026-02-20",
+      "score": 38.5,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O113",
+      "person_id": "P038",
+      "on": "2026-06-15",
+      "score": 36.86,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O114",
+      "person_id": "P038",
+      "on": "2026-09-15",
+      "score": 45.49,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O115",
+      "person_id": "P039",
+      "on": "2026-02-20",
+      "score": 40.75,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O116",
+      "person_id": "P039",
+      "on": "2026-06-15",
+      "score": 56.61,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O117",
+      "person_id": "P039",
+      "on": "2026-09-15",
+      "score": 44.93,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O118",
+      "person_id": "P040",
+      "on": "2026-02-20",
+      "score": 42.15,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O119",
+      "person_id": "P040",
+      "on": "2026-06-15",
+      "score": 57.43,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O120",
+      "person_id": "P040",
+      "on": "2026-09-15",
+      "score": 65.94,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O121",
+      "person_id": "P041",
+      "on": "2026-02-20",
+      "score": 42.98,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O122",
+      "person_id": "P041",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O123",
+      "person_id": "P041",
+      "on": "2026-09-15",
+      "score": 50.56,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O124",
+      "person_id": "P042",
+      "on": "2026-02-20",
+      "score": 73.36,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O125",
+      "person_id": "P042",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O126",
+      "person_id": "P042",
+      "on": "2026-09-15",
+      "score": 66.5,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O127",
+      "person_id": "P043",
+      "on": "2026-02-20",
+      "score": 38.21,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O128",
+      "person_id": "P043",
+      "on": "2026-06-15",
+      "score": 57.9,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O129",
+      "person_id": "P043",
+      "on": "2026-09-15",
+      "score": 62.31,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O130",
+      "person_id": "P044",
+      "on": "2026-02-20",
+      "score": 54.79,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O131",
+      "person_id": "P044",
+      "on": "2026-06-15",
+      "score": 55.73,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O132",
+      "person_id": "P044",
+      "on": "2026-09-15",
+      "score": 70.6,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O133",
+      "person_id": "P045",
+      "on": "2026-02-20",
+      "score": 46.63,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O134",
+      "person_id": "P045",
+      "on": "2026-06-15",
+      "score": 55.88,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O135",
+      "person_id": "P045",
+      "on": "2026-09-15",
+      "score": 41.37,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O136",
+      "person_id": "P046",
+      "on": "2026-02-20",
+      "score": 42.95,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O137",
+      "person_id": "P046",
+      "on": "2026-06-15",
+      "score": 40.14,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O138",
+      "person_id": "P046",
+      "on": "2026-09-15",
+      "score": 42.94,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O139",
+      "person_id": "P047",
+      "on": "2026-02-20",
+      "score": 59.4,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O140",
+      "person_id": "P047",
+      "on": "2026-06-15",
+      "score": 40.86,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O141",
+      "person_id": "P047",
+      "on": "2026-09-15",
+      "score": 39.13,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O142",
+      "person_id": "P048",
+      "on": "2026-02-20",
+      "score": 52.79,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O143",
+      "person_id": "P048",
+      "on": "2026-06-15",
+      "score": 63.68,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O144",
+      "person_id": "P048",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O145",
+      "person_id": "P049",
+      "on": "2026-02-20",
+      "score": 57.56,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O146",
+      "person_id": "P049",
+      "on": "2026-06-15",
+      "score": 66.9,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O147",
+      "person_id": "P049",
+      "on": "2026-09-15",
+      "score": 67.71,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O148",
+      "person_id": "P050",
+      "on": "2026-02-20",
+      "score": 51.81,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O149",
+      "person_id": "P050",
+      "on": "2026-06-15",
+      "score": 53.78,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O150",
+      "person_id": "P050",
+      "on": "2026-09-15",
+      "score": 43.77,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O151",
+      "person_id": "P051",
+      "on": "2026-02-20",
+      "score": 61.81,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O152",
+      "person_id": "P051",
+      "on": "2026-06-15",
+      "score": 53.6,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O153",
+      "person_id": "P051",
+      "on": "2026-09-15",
+      "score": 63.55,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O154",
+      "person_id": "P052",
+      "on": "2026-02-20",
+      "score": 49.5,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O155",
+      "person_id": "P052",
+      "on": "2026-06-15",
+      "score": 46.66,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O156",
+      "person_id": "P052",
+      "on": "2026-09-15",
+      "score": 54.5,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O157",
+      "person_id": "P053",
+      "on": "2026-02-20",
+      "score": 67.04,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O158",
+      "person_id": "P053",
+      "on": "2026-06-15",
+      "score": 54.11,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O159",
+      "person_id": "P053",
+      "on": "2026-09-15",
+      "score": 50.89,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O160",
+      "person_id": "P054",
+      "on": "2026-02-20",
+      "score": 47.11,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O161",
+      "person_id": "P054",
+      "on": "2026-06-15",
+      "score": 72.76,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O162",
+      "person_id": "P054",
+      "on": "2026-09-15",
+      "score": 55.89,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O163",
+      "person_id": "P055",
+      "on": "2026-02-20",
+      "score": 58.38,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O164",
+      "person_id": "P055",
+      "on": "2026-06-15",
+      "score": 64.29,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O165",
+      "person_id": "P055",
+      "on": "2026-09-15",
+      "score": 78.28,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O166",
+      "person_id": "P056",
+      "on": "2026-02-20",
+      "score": 38.13,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O167",
+      "person_id": "P056",
+      "on": "2026-06-15",
+      "score": 53.4,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O168",
+      "person_id": "P056",
+      "on": "2026-09-15",
+      "score": 55.5,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O169",
+      "person_id": "P057",
+      "on": "2026-02-20",
+      "score": 72.48,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O170",
+      "person_id": "P057",
+      "on": "2026-06-15",
+      "score": 63.46,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O171",
+      "person_id": "P057",
+      "on": "2026-09-15",
+      "score": 76.78,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O172",
+      "person_id": "P058",
+      "on": "2026-02-20",
+      "score": 59.33,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O173",
+      "person_id": "P058",
+      "on": "2026-06-15",
+      "score": 75.63,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O174",
+      "person_id": "P058",
+      "on": "2026-09-15",
+      "score": 52.99,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O175",
+      "person_id": "P059",
+      "on": "2026-02-20",
+      "score": 48.45,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O176",
+      "person_id": "P059",
+      "on": "2026-06-15",
+      "score": 50.93,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O177",
+      "person_id": "P059",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O178",
+      "person_id": "P060",
+      "on": "2026-02-20",
+      "score": 49.66,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O179",
+      "person_id": "P060",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O180",
+      "person_id": "P060",
+      "on": "2026-09-15",
+      "score": 52.08,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O181",
+      "person_id": "P061",
+      "on": "2026-02-20",
+      "score": 62.8,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O182",
+      "person_id": "P061",
+      "on": "2026-06-15",
+      "score": 68.43,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O183",
+      "person_id": "P061",
+      "on": "2026-09-15",
+      "score": 58.76,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O184",
+      "person_id": "P062",
+      "on": "2026-02-20",
+      "score": 43.23,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O185",
+      "person_id": "P062",
+      "on": "2026-06-15",
+      "score": 40.01,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O186",
+      "person_id": "P062",
+      "on": "2026-09-15",
+      "score": 43.42,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O187",
+      "person_id": "P063",
+      "on": "2026-02-20",
+      "score": 65.85,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O188",
+      "person_id": "P063",
+      "on": "2026-06-15",
+      "score": 65.15,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O189",
+      "person_id": "P063",
+      "on": "2026-09-15",
+      "score": 67.32,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O190",
+      "person_id": "P064",
+      "on": "2026-02-20",
+      "score": 70.49,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O191",
+      "person_id": "P064",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O192",
+      "person_id": "P064",
+      "on": "2026-09-15",
+      "score": 74.2,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O193",
+      "person_id": "P065",
+      "on": "2026-02-20",
+      "score": 43.39,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O194",
+      "person_id": "P065",
+      "on": "2026-06-15",
+      "score": 39.55,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O195",
+      "person_id": "P065",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O196",
+      "person_id": "P066",
+      "on": "2026-02-20",
+      "score": 59.35,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O197",
+      "person_id": "P066",
+      "on": "2026-06-15",
+      "score": 55.77,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O198",
+      "person_id": "P066",
+      "on": "2026-09-15",
+      "score": 57.38,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O199",
+      "person_id": "P067",
+      "on": "2026-02-20",
+      "score": 42.99,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O200",
+      "person_id": "P067",
+      "on": "2026-06-15",
+      "score": 54.5,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O201",
+      "person_id": "P067",
+      "on": "2026-09-15",
+      "score": 38.72,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O202",
+      "person_id": "P068",
+      "on": "2026-02-20",
+      "score": 49.13,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O203",
+      "person_id": "P068",
+      "on": "2026-06-15",
+      "score": 64.12,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O204",
+      "person_id": "P068",
+      "on": "2026-09-15",
+      "score": 53.63,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O205",
+      "person_id": "P069",
+      "on": "2026-02-20",
+      "score": 54.78,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O206",
+      "person_id": "P069",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O207",
+      "person_id": "P069",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O208",
+      "person_id": "P070",
+      "on": "2026-02-20",
+      "score": 44.55,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O209",
+      "person_id": "P070",
+      "on": "2026-06-15",
+      "score": 44.67,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O210",
+      "person_id": "P070",
+      "on": "2026-09-15",
+      "score": 53.74,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O211",
+      "person_id": "P071",
+      "on": "2026-02-20",
+      "score": 44.17,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O212",
+      "person_id": "P071",
+      "on": "2026-06-15",
+      "score": 41.73,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O213",
+      "person_id": "P071",
+      "on": "2026-09-15",
+      "score": 55.4,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O214",
+      "person_id": "P072",
+      "on": "2026-02-20",
+      "score": 52.85,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O215",
+      "person_id": "P072",
+      "on": "2026-06-15",
+      "score": 58.58,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O216",
+      "person_id": "P072",
+      "on": "2026-09-15",
+      "score": 61.66,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O217",
+      "person_id": "P073",
+      "on": "2026-02-20",
+      "score": 49.4,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O218",
+      "person_id": "P073",
+      "on": "2026-06-15",
+      "score": 39.0,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O219",
+      "person_id": "P073",
+      "on": "2026-09-15",
+      "score": 53.79,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O220",
+      "person_id": "P074",
+      "on": "2026-02-20",
+      "score": 45.98,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O221",
+      "person_id": "P074",
+      "on": "2026-06-15",
+      "score": 46.35,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O222",
+      "person_id": "P074",
+      "on": "2026-09-15",
+      "score": 45.43,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O223",
+      "person_id": "P075",
+      "on": "2026-02-20",
+      "score": 55.12,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O224",
+      "person_id": "P075",
+      "on": "2026-06-15",
+      "score": 53.05,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O225",
+      "person_id": "P075",
+      "on": "2026-09-15",
+      "score": 52.3,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O226",
+      "person_id": "P076",
+      "on": "2026-02-20",
+      "score": 69.36,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O227",
+      "person_id": "P076",
+      "on": "2026-06-15",
+      "score": 65.24,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O228",
+      "person_id": "P076",
+      "on": "2026-09-15",
+      "score": 63.67,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O229",
+      "person_id": "P077",
+      "on": "2026-02-20",
+      "score": 80.94,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O230",
+      "person_id": "P077",
+      "on": "2026-06-15",
+      "score": 85.8,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O231",
+      "person_id": "P077",
+      "on": "2026-09-15",
+      "score": 85.45,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O232",
+      "person_id": "P078",
+      "on": "2026-02-20",
+      "score": 45.29,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O233",
+      "person_id": "P078",
+      "on": "2026-06-15",
+      "score": 54.08,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O234",
+      "person_id": "P078",
+      "on": "2026-09-15",
+      "score": 50.04,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O235",
+      "person_id": "P079",
+      "on": "2026-02-20",
+      "score": 45.61,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O236",
+      "person_id": "P079",
+      "on": "2026-06-15",
+      "score": 64.0,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O237",
+      "person_id": "P079",
+      "on": "2026-09-15",
+      "score": 46.61,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O238",
+      "person_id": "P080",
+      "on": "2026-02-20",
+      "score": 74.11,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O239",
+      "person_id": "P080",
+      "on": "2026-06-15",
+      "score": 75.01,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O240",
+      "person_id": "P080",
+      "on": "2026-09-15",
+      "score": 67.6,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O241",
+      "person_id": "P081",
+      "on": "2026-02-20",
+      "score": 52.88,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O242",
+      "person_id": "P081",
+      "on": "2026-06-15",
+      "score": 76.62,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O243",
+      "person_id": "P081",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O244",
+      "person_id": "P082",
+      "on": "2026-02-20",
+      "score": 49.12,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O245",
+      "person_id": "P082",
+      "on": "2026-06-15",
+      "score": 48.33,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O246",
+      "person_id": "P082",
+      "on": "2026-09-15",
+      "score": 47.16,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O247",
+      "person_id": "P083",
+      "on": "2026-02-20",
+      "score": 75.43,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O248",
+      "person_id": "P083",
+      "on": "2026-06-15",
+      "score": 69.56,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O249",
+      "person_id": "P083",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O250",
+      "person_id": "P084",
+      "on": "2026-02-20",
+      "score": 65.67,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O251",
+      "person_id": "P084",
+      "on": "2026-06-15",
+      "score": 60.29,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O252",
+      "person_id": "P084",
+      "on": "2026-09-15",
+      "score": 76.89,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O253",
+      "person_id": "P085",
+      "on": "2026-02-20",
+      "score": 45.4,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O254",
+      "person_id": "P085",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O255",
+      "person_id": "P085",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O256",
+      "person_id": "P086",
+      "on": "2026-02-20",
+      "score": 41.65,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O257",
+      "person_id": "P086",
+      "on": "2026-06-15",
+      "score": 61.41,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O258",
+      "person_id": "P086",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O259",
+      "person_id": "P087",
+      "on": "2026-02-20",
+      "score": 69.09,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O260",
+      "person_id": "P087",
+      "on": "2026-06-15",
+      "score": 69.65,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O261",
+      "person_id": "P087",
+      "on": "2026-09-15",
+      "score": 77.92,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O262",
+      "person_id": "P088",
+      "on": "2026-02-20",
+      "score": 72.64,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O263",
+      "person_id": "P088",
+      "on": "2026-06-15",
+      "score": 63.43,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O264",
+      "person_id": "P088",
+      "on": "2026-09-15",
+      "score": 63.94,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O265",
+      "person_id": "P089",
+      "on": "2026-02-20",
+      "score": 51.48,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O266",
+      "person_id": "P089",
+      "on": "2026-06-15",
+      "score": 43.41,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O267",
+      "person_id": "P089",
+      "on": "2026-09-15",
+      "score": 52.77,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O268",
+      "person_id": "P090",
+      "on": "2026-02-20",
+      "score": 44.0,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O269",
+      "person_id": "P090",
+      "on": "2026-06-15",
+      "score": 49.81,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O270",
+      "person_id": "P090",
+      "on": "2026-09-15",
+      "score": 49.31,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O271",
+      "person_id": "P091",
+      "on": "2026-02-20",
+      "score": 58.51,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O272",
+      "person_id": "P091",
+      "on": "2026-06-15",
+      "score": 61.12,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O273",
+      "person_id": "P091",
+      "on": "2026-09-15",
+      "score": 69.66,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O274",
+      "person_id": "P092",
+      "on": "2026-02-20",
+      "score": 66.32,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O275",
+      "person_id": "P092",
+      "on": "2026-06-15",
+      "score": 84.51,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O276",
+      "person_id": "P092",
+      "on": "2026-09-15",
+      "score": 70.23,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O277",
+      "person_id": "P093",
+      "on": "2026-02-20",
+      "score": 59.98,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O278",
+      "person_id": "P093",
+      "on": "2026-06-15",
+      "score": 78.87,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O279",
+      "person_id": "P093",
+      "on": "2026-09-15",
+      "score": 68.04,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O280",
+      "person_id": "P094",
+      "on": "2026-02-20",
+      "score": 59.91,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O281",
+      "person_id": "P094",
+      "on": "2026-06-15",
+      "score": 66.15,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O282",
+      "person_id": "P094",
+      "on": "2026-09-15",
+      "score": 51.37,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O283",
+      "person_id": "P095",
+      "on": "2026-02-20",
+      "score": 64.47,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O284",
+      "person_id": "P095",
+      "on": "2026-06-15",
+      "score": 60.5,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O285",
+      "person_id": "P095",
+      "on": "2026-09-15",
+      "score": 85.21,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O286",
+      "person_id": "P096",
+      "on": "2026-02-20",
+      "score": 62.69,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O287",
+      "person_id": "P096",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O288",
+      "person_id": "P096",
+      "on": "2026-09-15",
+      "score": 54.72,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O289",
+      "person_id": "P097",
+      "on": "2026-02-20",
+      "score": 46.99,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O290",
+      "person_id": "P097",
+      "on": "2026-06-15",
+      "score": 43.33,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O291",
+      "person_id": "P097",
+      "on": "2026-09-15",
+      "score": 48.55,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O292",
+      "person_id": "P098",
+      "on": "2026-02-20",
+      "score": 53.42,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O293",
+      "person_id": "P098",
+      "on": "2026-06-15",
+      "score": 58.88,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O294",
+      "person_id": "P098",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O295",
+      "person_id": "P099",
+      "on": "2026-02-20",
+      "score": 49.05,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O296",
+      "person_id": "P099",
+      "on": "2026-06-15",
+      "score": 53.45,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O297",
+      "person_id": "P099",
+      "on": "2026-09-15",
+      "score": 52.4,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O298",
+      "person_id": "P100",
+      "on": "2026-02-20",
+      "score": 60.38,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O299",
+      "person_id": "P100",
+      "on": "2026-06-15",
+      "score": 73.31,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O300",
+      "person_id": "P100",
+      "on": "2026-09-15",
+      "score": 73.88,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O301",
+      "person_id": "P101",
+      "on": "2026-02-20",
+      "score": 64.04,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O302",
+      "person_id": "P101",
+      "on": "2026-06-15",
+      "score": 60.36,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O303",
+      "person_id": "P101",
+      "on": "2026-09-15",
+      "score": 66.6,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O304",
+      "person_id": "P102",
+      "on": "2026-02-20",
+      "score": 43.94,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O305",
+      "person_id": "P102",
+      "on": "2026-06-15",
+      "score": 53.2,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O306",
+      "person_id": "P102",
+      "on": "2026-09-15",
+      "score": 49.17,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O307",
+      "person_id": "P103",
+      "on": "2026-02-20",
+      "score": 45.23,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O308",
+      "person_id": "P103",
+      "on": "2026-06-15",
+      "score": 59.06,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O309",
+      "person_id": "P103",
+      "on": "2026-09-15",
+      "score": 34.06,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O310",
+      "person_id": "P104",
+      "on": "2026-02-20",
+      "score": 52.08,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O311",
+      "person_id": "P104",
+      "on": "2026-06-15",
+      "score": 54.37,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O312",
+      "person_id": "P104",
+      "on": "2026-09-15",
+      "score": 50.83,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O313",
+      "person_id": "P105",
+      "on": "2026-02-20",
+      "score": 60.26,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O314",
+      "person_id": "P105",
+      "on": "2026-06-15",
+      "score": 60.68,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O315",
+      "person_id": "P105",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O316",
+      "person_id": "P106",
+      "on": "2026-02-20",
+      "score": 57.89,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O317",
+      "person_id": "P106",
+      "on": "2026-06-15",
+      "score": 69.12,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O318",
+      "person_id": "P106",
+      "on": "2026-09-15",
+      "score": 53.54,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O319",
+      "person_id": "P107",
+      "on": "2026-02-20",
+      "score": 67.45,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O320",
+      "person_id": "P107",
+      "on": "2026-06-15",
+      "score": 54.34,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O321",
+      "person_id": "P107",
+      "on": "2026-09-15",
+      "score": 65.95,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O322",
+      "person_id": "P108",
+      "on": "2026-02-20",
+      "score": 57.59,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O323",
+      "person_id": "P108",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O324",
+      "person_id": "P108",
+      "on": "2026-09-15",
+      "score": 58.74,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O325",
+      "person_id": "P109",
+      "on": "2026-02-20",
+      "score": 17.25,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O326",
+      "person_id": "P109",
+      "on": "2026-06-15",
+      "score": 38.84,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O327",
+      "person_id": "P109",
+      "on": "2026-09-15",
+      "score": 50.81,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O328",
+      "person_id": "P110",
+      "on": "2026-02-20",
+      "score": 55.15,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O329",
+      "person_id": "P110",
+      "on": "2026-06-15",
+      "score": 47.77,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O330",
+      "person_id": "P110",
+      "on": "2026-09-15",
+      "score": 49.82,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O331",
+      "person_id": "P111",
+      "on": "2026-02-20",
+      "score": 62.94,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O332",
+      "person_id": "P111",
+      "on": "2026-06-15",
+      "score": 67.51,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O333",
+      "person_id": "P111",
+      "on": "2026-09-15",
+      "score": 58.47,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O334",
+      "person_id": "P112",
+      "on": "2026-02-20",
+      "score": 53.82,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O335",
+      "person_id": "P112",
+      "on": "2026-06-15",
+      "score": 50.08,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O336",
+      "person_id": "P112",
+      "on": "2026-09-15",
+      "score": 48.05,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O337",
+      "person_id": "P113",
+      "on": "2026-02-20",
+      "score": 52.94,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O338",
+      "person_id": "P113",
+      "on": "2026-06-15",
+      "score": 58.99,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O339",
+      "person_id": "P113",
+      "on": "2026-09-15",
+      "score": 62.45,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O340",
+      "person_id": "P114",
+      "on": "2026-02-20",
+      "score": 75.49,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O341",
+      "person_id": "P114",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O342",
+      "person_id": "P114",
+      "on": "2026-09-15",
+      "score": 64.21,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O343",
+      "person_id": "P115",
+      "on": "2026-02-20",
+      "score": 54.55,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O344",
+      "person_id": "P115",
+      "on": "2026-06-15",
+      "score": 64.44,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O345",
+      "person_id": "P115",
+      "on": "2026-09-15",
+      "score": 84.31,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O346",
+      "person_id": "P116",
+      "on": "2026-02-20",
+      "score": 67.11,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O347",
+      "person_id": "P116",
+      "on": "2026-06-15",
+      "score": 52.63,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O348",
+      "person_id": "P116",
+      "on": "2026-09-15",
+      "score": 64.15,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O349",
+      "person_id": "P117",
+      "on": "2026-02-20",
+      "score": 56.61,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O350",
+      "person_id": "P117",
+      "on": "2026-06-15",
+      "score": 59.87,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O351",
+      "person_id": "P117",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O352",
+      "person_id": "P118",
+      "on": "2026-02-20",
+      "score": 57.4,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O353",
+      "person_id": "P118",
+      "on": "2026-06-15",
+      "score": 47.01,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O354",
+      "person_id": "P118",
+      "on": "2026-09-15",
+      "score": 58.4,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O355",
+      "person_id": "P119",
+      "on": "2026-02-20",
+      "score": 48.01,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O356",
+      "person_id": "P119",
+      "on": "2026-06-15",
+      "score": 40.93,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O357",
+      "person_id": "P119",
+      "on": "2026-09-15",
+      "score": 48.11,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O358",
+      "person_id": "P120",
+      "on": "2026-02-20",
+      "score": 49.4,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O359",
+      "person_id": "P120",
+      "on": "2026-06-15",
+      "score": 40.87,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O360",
+      "person_id": "P120",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O361",
+      "person_id": "P121",
+      "on": "2026-02-20",
+      "score": 69.76,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O362",
+      "person_id": "P121",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O363",
+      "person_id": "P121",
+      "on": "2026-09-15",
+      "score": 76.27,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O364",
+      "person_id": "P122",
+      "on": "2026-02-20",
+      "score": 51.09,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O365",
+      "person_id": "P122",
+      "on": "2026-06-15",
+      "score": 63.04,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O366",
+      "person_id": "P122",
+      "on": "2026-09-15",
+      "score": 49.43,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O367",
+      "person_id": "P123",
+      "on": "2026-02-20",
+      "score": 58.83,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O368",
+      "person_id": "P123",
+      "on": "2026-06-15",
+      "score": 63.4,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O369",
+      "person_id": "P123",
+      "on": "2026-09-15",
+      "score": 57.12,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O370",
+      "person_id": "P124",
+      "on": "2026-02-20",
+      "score": 62.47,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O371",
+      "person_id": "P124",
+      "on": "2026-06-15",
+      "score": 59.64,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O372",
+      "person_id": "P124",
+      "on": "2026-09-15",
+      "score": 58.45,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O373",
+      "person_id": "P125",
+      "on": "2026-02-20",
+      "score": 38.47,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O374",
+      "person_id": "P125",
+      "on": "2026-06-15",
+      "score": 57.37,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O375",
+      "person_id": "P125",
+      "on": "2026-09-15",
+      "score": 55.02,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O376",
+      "person_id": "P126",
+      "on": "2026-02-20",
+      "score": 64.0,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O377",
+      "person_id": "P126",
+      "on": "2026-06-15",
+      "score": 81.68,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O378",
+      "person_id": "P126",
+      "on": "2026-09-15",
+      "score": 69.99,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O379",
+      "person_id": "P127",
+      "on": "2026-02-20",
+      "score": 51.9,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O380",
+      "person_id": "P127",
+      "on": "2026-06-15",
+      "score": 57.54,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O381",
+      "person_id": "P127",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O382",
+      "person_id": "P128",
+      "on": "2026-02-20",
+      "score": 60.61,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O383",
+      "person_id": "P128",
+      "on": "2026-06-15",
+      "score": 45.82,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O384",
+      "person_id": "P128",
+      "on": "2026-09-15",
+      "score": 54.23,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O385",
+      "person_id": "P129",
+      "on": "2026-02-20",
+      "score": 62.02,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O386",
+      "person_id": "P129",
+      "on": "2026-06-15",
+      "score": 56.81,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O387",
+      "person_id": "P129",
+      "on": "2026-09-15",
+      "score": 58.65,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O388",
+      "person_id": "P130",
+      "on": "2026-02-20",
+      "score": 69.34,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O389",
+      "person_id": "P130",
+      "on": "2026-06-15",
+      "score": 78.87,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O390",
+      "person_id": "P130",
+      "on": "2026-09-15",
+      "score": 65.53,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O391",
+      "person_id": "P131",
+      "on": "2026-02-20",
+      "score": 44.85,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O392",
+      "person_id": "P131",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O393",
+      "person_id": "P131",
+      "on": "2026-09-15",
+      "score": 42.08,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O394",
+      "person_id": "P132",
+      "on": "2026-02-20",
+      "score": 64.75,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O395",
+      "person_id": "P132",
+      "on": "2026-06-15",
+      "score": 57.53,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O396",
+      "person_id": "P132",
+      "on": "2026-09-15",
+      "score": 53.88,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O397",
+      "person_id": "P133",
+      "on": "2026-02-20",
+      "score": 50.61,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O398",
+      "person_id": "P133",
+      "on": "2026-06-15",
+      "score": 43.23,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O399",
+      "person_id": "P133",
+      "on": "2026-09-15",
+      "score": 27.61,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O400",
+      "person_id": "P134",
+      "on": "2026-02-20",
+      "score": 29.75,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O401",
+      "person_id": "P134",
+      "on": "2026-06-15",
+      "score": 40.48,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O402",
+      "person_id": "P134",
+      "on": "2026-09-15",
+      "score": 44.13,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O403",
+      "person_id": "P135",
+      "on": "2026-02-20",
+      "score": 49.33,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O404",
+      "person_id": "P135",
+      "on": "2026-06-15",
+      "score": 52.33,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O405",
+      "person_id": "P135",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O406",
+      "person_id": "P136",
+      "on": "2026-02-20",
+      "score": 59.55,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O407",
+      "person_id": "P136",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O408",
+      "person_id": "P136",
+      "on": "2026-09-15",
+      "score": 75.66,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O409",
+      "person_id": "P137",
+      "on": "2026-02-20",
+      "score": 44.76,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O410",
+      "person_id": "P137",
+      "on": "2026-06-15",
+      "score": 52.66,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O411",
+      "person_id": "P137",
+      "on": "2026-09-15",
+      "score": 60.43,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O412",
+      "person_id": "P138",
+      "on": "2026-02-20",
+      "score": 62.04,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O413",
+      "person_id": "P138",
+      "on": "2026-06-15",
+      "score": 53.51,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O414",
+      "person_id": "P138",
+      "on": "2026-09-15",
+      "score": 66.6,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O415",
+      "person_id": "P139",
+      "on": "2026-02-20",
+      "score": 65.02,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O416",
+      "person_id": "P139",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O417",
+      "person_id": "P139",
+      "on": "2026-09-15",
+      "score": 74.02,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O418",
+      "person_id": "P140",
+      "on": "2026-02-20",
+      "score": 51.62,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O419",
+      "person_id": "P140",
+      "on": "2026-06-15",
+      "score": 55.05,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O420",
+      "person_id": "P140",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O421",
+      "person_id": "P141",
+      "on": "2026-02-20",
+      "score": 67.36,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O422",
+      "person_id": "P141",
+      "on": "2026-06-15",
+      "score": 71.84,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O423",
+      "person_id": "P141",
+      "on": "2026-09-15",
+      "score": 72.68,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O424",
+      "person_id": "P142",
+      "on": "2026-02-20",
+      "score": 42.07,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O425",
+      "person_id": "P142",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O426",
+      "person_id": "P142",
+      "on": "2026-09-15",
+      "score": 73.78,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O427",
+      "person_id": "P143",
+      "on": "2026-02-20",
+      "score": 52.96,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O428",
+      "person_id": "P143",
+      "on": "2026-06-15",
+      "score": 59.27,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O429",
+      "person_id": "P143",
+      "on": "2026-09-15",
+      "score": 58.21,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O430",
+      "person_id": "P144",
+      "on": "2026-02-20",
+      "score": 59.64,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O431",
+      "person_id": "P144",
+      "on": "2026-06-15",
+      "score": 64.32,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O432",
+      "person_id": "P144",
+      "on": "2026-09-15",
+      "score": 78.41,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O433",
+      "person_id": "P145",
+      "on": "2026-02-20",
+      "score": 44.82,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O434",
+      "person_id": "P145",
+      "on": "2026-06-15",
+      "score": 40.64,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O435",
+      "person_id": "P145",
+      "on": "2026-09-15",
+      "score": 48.48,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O436",
+      "person_id": "P146",
+      "on": "2026-02-20",
+      "score": 37.47,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O437",
+      "person_id": "P146",
+      "on": "2026-06-15",
+      "score": 28.02,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O438",
+      "person_id": "P146",
+      "on": "2026-09-15",
+      "score": 49.63,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O439",
+      "person_id": "P147",
+      "on": "2026-02-20",
+      "score": 42.96,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O440",
+      "person_id": "P147",
+      "on": "2026-06-15",
+      "score": 47.93,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O441",
+      "person_id": "P147",
+      "on": "2026-09-15",
+      "score": 54.09,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O442",
+      "person_id": "P148",
+      "on": "2026-02-20",
+      "score": 53.77,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O443",
+      "person_id": "P148",
+      "on": "2026-06-15",
+      "score": 53.48,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O444",
+      "person_id": "P148",
+      "on": "2026-09-15",
+      "score": 77.09,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O445",
+      "person_id": "P149",
+      "on": "2026-02-20",
+      "score": 54.91,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O446",
+      "person_id": "P149",
+      "on": "2026-06-15",
+      "score": 46.6,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O447",
+      "person_id": "P149",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O448",
+      "person_id": "P150",
+      "on": "2026-02-20",
+      "score": 55.01,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O449",
+      "person_id": "P150",
+      "on": "2026-06-15",
+      "score": 47.94,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O450",
+      "person_id": "P150",
+      "on": "2026-09-15",
+      "score": 54.78,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O451",
+      "person_id": "P151",
+      "on": "2026-02-20",
+      "score": 42.51,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O452",
+      "person_id": "P151",
+      "on": "2026-06-15",
+      "score": 64.41,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O453",
+      "person_id": "P151",
+      "on": "2026-09-15",
+      "score": 67.03,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O454",
+      "person_id": "P152",
+      "on": "2026-02-20",
+      "score": 62.56,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O455",
+      "person_id": "P152",
+      "on": "2026-06-15",
+      "score": 77.01,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O456",
+      "person_id": "P152",
+      "on": "2026-09-15",
+      "score": 58.84,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O457",
+      "person_id": "P153",
+      "on": "2026-02-20",
+      "score": 60.6,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O458",
+      "person_id": "P153",
+      "on": "2026-06-15",
+      "score": 57.9,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O459",
+      "person_id": "P153",
+      "on": "2026-09-15",
+      "score": 53.48,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O460",
+      "person_id": "P154",
+      "on": "2026-02-20",
+      "score": 62.96,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O461",
+      "person_id": "P154",
+      "on": "2026-06-15",
+      "score": 64.56,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O462",
+      "person_id": "P154",
+      "on": "2026-09-15",
+      "score": 66.24,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O463",
+      "person_id": "P155",
+      "on": "2026-02-20",
+      "score": 44.74,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O464",
+      "person_id": "P155",
+      "on": "2026-06-15",
+      "score": 59.21,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O465",
+      "person_id": "P155",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O466",
+      "person_id": "P156",
+      "on": "2026-02-20",
+      "score": 52.81,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O467",
+      "person_id": "P156",
+      "on": "2026-06-15",
+      "score": 64.22,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O468",
+      "person_id": "P156",
+      "on": "2026-09-15",
+      "score": 69.08,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O469",
+      "person_id": "P157",
+      "on": "2026-02-20",
+      "score": 55.45,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O470",
+      "person_id": "P157",
+      "on": "2026-06-15",
+      "score": 46.93,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O471",
+      "person_id": "P157",
+      "on": "2026-09-15",
+      "score": 45.4,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O472",
+      "person_id": "P158",
+      "on": "2026-02-20",
+      "score": 37.23,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O473",
+      "person_id": "P158",
+      "on": "2026-06-15",
+      "score": 46.66,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O474",
+      "person_id": "P158",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O475",
+      "person_id": "P159",
+      "on": "2026-02-20",
+      "score": 59.83,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O476",
+      "person_id": "P159",
+      "on": "2026-06-15",
+      "score": 61.28,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O477",
+      "person_id": "P159",
+      "on": "2026-09-15",
+      "score": 67.56,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O478",
+      "person_id": "P160",
+      "on": "2026-02-20",
+      "score": 52.69,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O479",
+      "person_id": "P160",
+      "on": "2026-06-15",
+      "score": 49.71,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O480",
+      "person_id": "P160",
+      "on": "2026-09-15",
+      "score": 49.16,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O481",
+      "person_id": "P161",
+      "on": "2026-02-20",
+      "score": 51.18,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O482",
+      "person_id": "P161",
+      "on": "2026-06-15",
+      "score": 59.55,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O483",
+      "person_id": "P161",
+      "on": "2026-09-15",
+      "score": 62.71,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O484",
+      "person_id": "P162",
+      "on": "2026-02-20",
+      "score": 83.3,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O485",
+      "person_id": "P162",
+      "on": "2026-06-15",
+      "score": 71.43,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O486",
+      "person_id": "P162",
+      "on": "2026-09-15",
+      "score": 81.61,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O487",
+      "person_id": "P163",
+      "on": "2026-02-20",
+      "score": 48.69,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O488",
+      "person_id": "P163",
+      "on": "2026-06-15",
+      "score": 54.14,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O489",
+      "person_id": "P163",
+      "on": "2026-09-15",
+      "score": 58.21,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O490",
+      "person_id": "P164",
+      "on": "2026-02-20",
+      "score": 52.66,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O491",
+      "person_id": "P164",
+      "on": "2026-06-15",
+      "score": 46.58,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O492",
+      "person_id": "P164",
+      "on": "2026-09-15",
+      "score": 49.55,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O493",
+      "person_id": "P165",
+      "on": "2026-02-20",
+      "score": 56.97,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O494",
+      "person_id": "P165",
+      "on": "2026-06-15",
+      "score": 62.13,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O495",
+      "person_id": "P165",
+      "on": "2026-09-15",
+      "score": 65.94,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O496",
+      "person_id": "P166",
+      "on": "2026-02-20",
+      "score": 65.89,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O497",
+      "person_id": "P166",
+      "on": "2026-06-15",
+      "score": 42.98,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O498",
+      "person_id": "P166",
+      "on": "2026-09-15",
+      "score": 55.42,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O499",
+      "person_id": "P167",
+      "on": "2026-02-20",
+      "score": 28.58,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O500",
+      "person_id": "P167",
+      "on": "2026-06-15",
+      "score": 55.87,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O501",
+      "person_id": "P167",
+      "on": "2026-09-15",
+      "score": 43.95,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O502",
+      "person_id": "P168",
+      "on": "2026-02-20",
+      "score": 71.42,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O503",
+      "person_id": "P168",
+      "on": "2026-06-15",
+      "score": 66.16,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O504",
+      "person_id": "P168",
+      "on": "2026-09-15",
+      "score": 66.18,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O505",
+      "person_id": "P169",
+      "on": "2026-02-20",
+      "score": 68.54,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O506",
+      "person_id": "P169",
+      "on": "2026-06-15",
+      "score": 67.77,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O507",
+      "person_id": "P169",
+      "on": "2026-09-15",
+      "score": 78.15,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O508",
+      "person_id": "P170",
+      "on": "2026-02-20",
+      "score": 57.36,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O509",
+      "person_id": "P170",
+      "on": "2026-06-15",
+      "score": 70.51,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O510",
+      "person_id": "P170",
+      "on": "2026-09-15",
+      "score": 49.91,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O511",
+      "person_id": "P171",
+      "on": "2026-02-20",
+      "score": 31.69,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O512",
+      "person_id": "P171",
+      "on": "2026-06-15",
+      "score": 45.9,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O513",
+      "person_id": "P171",
+      "on": "2026-09-15",
+      "score": 45.83,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O514",
+      "person_id": "P172",
+      "on": "2026-02-20",
+      "score": 57.81,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O515",
+      "person_id": "P172",
+      "on": "2026-06-15",
+      "score": 81.47,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O516",
+      "person_id": "P172",
+      "on": "2026-09-15",
+      "score": 71.64,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O517",
+      "person_id": "P173",
+      "on": "2026-02-20",
+      "score": 65.58,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O518",
+      "person_id": "P173",
+      "on": "2026-06-15",
+      "score": 71.83,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O519",
+      "person_id": "P173",
+      "on": "2026-09-15",
+      "score": 80.89,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O520",
+      "person_id": "P174",
+      "on": "2026-02-20",
+      "score": 55.5,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O521",
+      "person_id": "P174",
+      "on": "2026-06-15",
+      "score": 56.84,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O522",
+      "person_id": "P174",
+      "on": "2026-09-15",
+      "score": 63.77,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O523",
+      "person_id": "P175",
+      "on": "2026-02-20",
+      "score": 44.32,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O524",
+      "person_id": "P175",
+      "on": "2026-06-15",
+      "score": 54.64,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O525",
+      "person_id": "P175",
+      "on": "2026-09-15",
+      "score": 58.53,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O526",
+      "person_id": "P176",
+      "on": "2026-02-20",
+      "score": 29.09,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O527",
+      "person_id": "P176",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O528",
+      "person_id": "P176",
+      "on": "2026-09-15",
+      "score": 64.86,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O529",
+      "person_id": "P177",
+      "on": "2026-02-20",
+      "score": 53.16,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O530",
+      "person_id": "P177",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O531",
+      "person_id": "P177",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O532",
+      "person_id": "P178",
+      "on": "2026-02-20",
+      "score": 66.42,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 7
+    },
+    {
+      "id": "O533",
+      "person_id": "P178",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O534",
+      "person_id": "P178",
+      "on": "2026-09-15",
+      "score": 61.69,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 12
+    },
+    {
+      "id": "O535",
+      "person_id": "P179",
+      "on": "2026-02-20",
+      "score": 43.1,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O536",
+      "person_id": "P179",
+      "on": "2026-06-15",
+      "score": 48.1,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O537",
+      "person_id": "P179",
+      "on": "2026-09-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-09-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O538",
+      "person_id": "P180",
+      "on": "2026-02-20",
+      "score": 59.67,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O539",
+      "person_id": "P180",
+      "on": "2026-06-15",
+      "score": 65.83,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O540",
+      "person_id": "P180",
+      "on": "2026-09-15",
+      "score": 68.48,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O541",
+      "person_id": "P181",
+      "on": "2026-02-20",
+      "score": 50.87,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O542",
+      "person_id": "P181",
+      "on": "2026-06-15",
+      "score": 55.3,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O543",
+      "person_id": "P181",
+      "on": "2026-09-15",
+      "score": 56.96,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O544",
+      "person_id": "P182",
+      "on": "2026-02-20",
+      "score": 49.21,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 6
+    },
+    {
+      "id": "O545",
+      "person_id": "P182",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O546",
+      "person_id": "P182",
+      "on": "2026-09-15",
+      "score": 72.58,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O547",
+      "person_id": "P183",
+      "on": "2026-02-20",
+      "score": 54.66,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 12
+    },
+    {
+      "id": "O548",
+      "person_id": "P183",
+      "on": "2026-06-15",
+      "score": 63.05,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O549",
+      "person_id": "P183",
+      "on": "2026-09-15",
+      "score": 66.22,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O550",
+      "person_id": "P184",
+      "on": "2026-02-20",
+      "score": 49.18,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O551",
+      "person_id": "P184",
+      "on": "2026-06-15",
+      "score": 50.35,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O552",
+      "person_id": "P184",
+      "on": "2026-09-15",
+      "score": 62.93,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O553",
+      "person_id": "P185",
+      "on": "2026-02-20",
+      "score": 39.57,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O554",
+      "person_id": "P185",
+      "on": "2026-06-15",
+      "score": 46.16,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O555",
+      "person_id": "P185",
+      "on": "2026-09-15",
+      "score": 56.09,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O556",
+      "person_id": "P186",
+      "on": "2026-02-20",
+      "score": 71.6,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 9
+    },
+    {
+      "id": "O557",
+      "person_id": "P186",
+      "on": "2026-06-15",
+      "score": 49.3,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O558",
+      "person_id": "P186",
+      "on": "2026-09-15",
+      "score": 43.84,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O559",
+      "person_id": "P187",
+      "on": "2026-02-20",
+      "score": 40.53,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O560",
+      "person_id": "P187",
+      "on": "2026-06-15",
+      "score": 42.54,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O561",
+      "person_id": "P187",
+      "on": "2026-09-15",
+      "score": 44.29,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O562",
+      "person_id": "P188",
+      "on": "2026-02-20",
+      "score": 37.12,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O563",
+      "person_id": "P188",
+      "on": "2026-06-15",
+      "score": 44.16,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 10
+    },
+    {
+      "id": "O564",
+      "person_id": "P188",
+      "on": "2026-09-15",
+      "score": 43.29,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O565",
+      "person_id": "P189",
+      "on": "2026-02-20",
+      "score": 49.56,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 8
+    },
+    {
+      "id": "O566",
+      "person_id": "P189",
+      "on": "2026-06-15",
+      "score": null,
+      "reason": "unreturned",
+      "received_on": "2026-06-15",
+      "actually_attended": 0
+    },
+    {
+      "id": "O567",
+      "person_id": "P189",
+      "on": "2026-09-15",
+      "score": 48.63,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O568",
+      "person_id": "P190",
+      "on": "2026-02-20",
+      "score": 62.74,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O569",
+      "person_id": "P190",
+      "on": "2026-06-15",
+      "score": 59.77,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 9
+    },
+    {
+      "id": "O570",
+      "person_id": "P190",
+      "on": "2026-09-15",
+      "score": 55.41,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 11
+    },
+    {
+      "id": "O571",
+      "person_id": "P191",
+      "on": "2026-02-20",
+      "score": 79.54,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 11
+    },
+    {
+      "id": "O572",
+      "person_id": "P191",
+      "on": "2026-06-15",
+      "score": 70.65,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 8
+    },
+    {
+      "id": "O573",
+      "person_id": "P191",
+      "on": "2026-09-15",
+      "score": 68.21,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 6
+    },
+    {
+      "id": "O574",
+      "person_id": "P192",
+      "on": "2026-02-20",
+      "score": 49.28,
+      "reason": null,
+      "received_on": "2026-02-20",
+      "actually_attended": 10
+    },
+    {
+      "id": "O575",
+      "person_id": "P192",
+      "on": "2026-06-15",
+      "score": 38.84,
+      "reason": null,
+      "received_on": "2026-06-15",
+      "actually_attended": 7
+    },
+    {
+      "id": "O576",
+      "person_id": "P192",
+      "on": "2026-09-15",
+      "score": 38.2,
+      "reason": null,
+      "received_on": "2026-09-15",
+      "actually_attended": 10
+    }
+  ],
+  "teachers": [
+    {
+      "id": "T1",
+      "hours": 10,
+      "grade_low": 3,
+      "grade_high": 6
+    },
+    {
+      "id": "T2",
+      "hours": 10,
+      "grade_low": 3,
+      "grade_high": 6
+    },
+    {
+      "id": "T3",
+      "hours": 10,
+      "grade_low": 3,
+      "grade_high": 6
+    },
+    {
+      "id": "T4",
+      "hours": 10,
+      "grade_low": 3,
+      "grade_high": 6
+    },
+    {
+      "id": "T5",
+      "hours": 10,
+      "grade_low": 3,
+      "grade_high": 6
+    },
+    {
+      "id": "T6",
+      "hours": 10,
+      "grade_low": 3,
+      "grade_high": 6
+    }
+  ],
+  "teaching_links": [
+    {
+      "id": "J1",
+      "teacher_id": "T1",
+      "school_id": "C1",
+      "from_on": "2026-03-01",
+      "hours": 3,
+      "received_on": "2026-03-01"
+    },
+    {
+      "id": "J2",
+      "teacher_id": "T2",
+      "school_id": "C2",
+      "from_on": "2026-03-01",
+      "hours": 3,
+      "received_on": "2026-03-01"
+    },
+    {
+      "id": "J3",
+      "teacher_id": "T3",
+      "school_id": "C3",
+      "from_on": "2026-03-01",
+      "hours": 3,
+      "received_on": "2026-03-01"
+    },
+    {
+      "id": "J4",
+      "teacher_id": "T4",
+      "school_id": "C4",
+      "from_on": "2026-03-01",
+      "hours": 3,
+      "received_on": "2026-03-01"
+    },
+    {
+      "id": "J5",
+      "teacher_id": "T5",
+      "school_id": "C5",
+      "from_on": "2026-03-01",
+      "hours": 3,
+      "received_on": "2026-03-01"
+    },
+    {
+      "id": "J6",
+      "teacher_id": "T6",
+      "school_id": "C6",
+      "from_on": "2026-03-01",
+      "hours": 3,
+      "received_on": "2026-03-01"
+    },
+    {
+      "id": "J7",
+      "teacher_id": "T1",
+      "school_id": "C7",
+      "from_on": "2026-03-01",
+      "hours": 3,
+      "received_on": "2026-03-01"
+    },
+    {
+      "id": "J8",
+      "teacher_id": "T2",
+      "school_id": "C8",
+      "from_on": "2026-03-01",
+      "hours": 3,
+      "received_on": "2026-03-01"
+    },
+    {
+      "id": "J9",
+      "teacher_id": "T3",
+      "school_id": "C9",
+      "from_on": "2026-03-01",
+      "hours": 3,
+      "received_on": "2026-03-01"
+    },
+    {
+      "id": "J10",
+      "teacher_id": "T4",
+      "school_id": "C10",
+      "from_on": "2026-03-01",
+      "hours": 3,
+      "received_on": "2026-03-01"
+    },
+    {
+      "id": "J11",
+      "teacher_id": "T5",
+      "school_id": "C11",
+      "from_on": "2026-03-01",
+      "hours": 3,
+      "received_on": "2026-03-01"
+    },
+    {
+      "id": "J12",
+      "teacher_id": "T6",
+      "school_id": "C12",
+      "from_on": "2026-03-01",
+      "hours": 3,
+      "received_on": "2026-03-01"
+    },
+    {
+      "id": "J13",
+      "teacher_id": "T1",
+      "school_id": "C4",
+      "from_on": "2026-04-01",
+      "hours": 2,
+      "received_on": "2026-07-10"
+    }
+  ],
+  "formal_history": [
+    {
+      "id": "H1",
+      "trial_id": "X1",
+      "issued_on": "2026-07-01",
+      "cutoff": "2026-06-30",
+      "look_number": 1,
+      "decision_reference": "研究会纪要A"
+    }
+  ],
+  "rollout": [
+    {
+      "id": "R1",
+      "school_id": "C10",
+      "teacher_id": "T1",
+      "weekly_hours": 3,
+      "confirmed_on": "2026-07-02",
+      "start": "2026-08-01",
+      "started": false
+    },
+    {
+      "id": "R2",
+      "school_id": "C12",
+      "teacher_id": "T6",
+      "weekly_hours": 3,
+      "confirmed_on": "2026-07-02",
+      "start": "2026-07-05",
+      "started": true
+    }
+  ]
+}

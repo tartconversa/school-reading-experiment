@@ -1,0 +1,133 @@
+{
+  "synthetic": true,
+  "description": "跨校阅读干预的实验判定与扩围接管的合成输入资料；不含未来分析结论。",
+  "tables": {
+    "schools": {
+      "description": "参与学校；设备量是服务条件，不是能力指标。",
+      "fields": {
+        "id": "学校编号",
+        "area": "地区层",
+        "devices": "同时可用终端台数"
+      },
+      "references": {}
+    },
+    "people": {
+      "description": "合成人员名册；同家庭标识用于识别非独立观测，不含姓名或联系方式。",
+      "fields": {
+        "id": "人员编号",
+        "school_id": "名册学校",
+        "household": "合成家庭编号；两人可同属一个家庭",
+        "grade": "学年年级",
+        "access_need": "必要访问形式；audio为听读、text为普通文本",
+        "sample_weight": "抽样基础权重，非分析后的校正权重"
+      },
+      "references": {
+        "school_id": "schools"
+      }
+    },
+    "protocols": {
+      "description": "事前研究登记。",
+      "fields": {
+        "id": "试验",
+        "registered_on": "登记日",
+        "unit": "随机单位，school为学校",
+        "primary": "主结果维度",
+        "minimum_gain": "最小有意义改善分数",
+        "alpha": "整体错误风险预算",
+        "formal_looks": "最多正式查看次数",
+        "look_dates": "事前正式查看日",
+        "resource_hours": "下一批每周可分配教师小时"
+      },
+      "references": {}
+    },
+    "allocations": {
+      "description": "事前学校分配；不是根据成绩重建的分组。",
+      "fields": {
+        "id": "分配",
+        "school_id": "学校",
+        "trial_id": "试验",
+        "arm": "reading干预/usual常规",
+        "assigned_on": "分配日期",
+        "start": "观测开始",
+        "end": "主要观测结束"
+      },
+      "references": {
+        "school_id": "schools",
+        "trial_id": "protocols"
+      }
+    },
+    "observations": {
+      "description": "含完整主要观测期与后续期的回收记录。",
+      "fields": {
+        "id": "观测",
+        "person_id": "学生",
+        "on": "观测日期",
+        "score": "理解分0至100，null为未回收",
+        "reason": "未回收说明",
+        "received_on": "收到日期；限制某次分析可使用的信息",
+        "actually_attended": "实际参加次数"
+      },
+      "references": {
+        "person_id": "people"
+      }
+    },
+    "teachers": {
+      "description": "教师可用时间与专长。",
+      "fields": {
+        "id": "教师",
+        "hours": "每周可用小时",
+        "grade_low": "服务年级下限",
+        "grade_high": "上限"
+      },
+      "references": {}
+    },
+    "teaching_links": {
+      "description": "任职与跨校接触；后到记录保留其真实生效日。",
+      "fields": {
+        "id": "联系",
+        "teacher_id": "教师",
+        "school_id": "学校",
+        "from_on": "任职开始",
+        "hours": "每周占用小时",
+        "received_on": "资料到达日"
+      },
+      "references": {
+        "teacher_id": "teachers",
+        "school_id": "schools"
+      }
+    },
+    "formal_history": {
+      "description": "研究员已有正式发布记录；附原始截止信息，不预置统计结论。",
+      "fields": {
+        "id": "发布",
+        "trial_id": "试验",
+        "issued_on": "发出日期",
+        "cutoff": "资料截止日期",
+        "look_number": "使用的正式机会编号",
+        "decision_reference": "原始人工决定引用"
+      },
+      "references": {
+        "trial_id": "protocols"
+      }
+    },
+    "rollout": {
+      "description": "校方已经确认的扩围排课。",
+      "fields": {
+        "id": "排课",
+        "school_id": "扩围学校",
+        "teacher_id": "教师",
+        "weekly_hours": "每周承诺小时",
+        "confirmed_on": "校方确认日",
+        "start": "接管起日",
+        "started": "是否已经实际开始"
+      },
+      "references": {
+        "school_id": "schools",
+        "teacher_id": "teachers"
+      }
+    }
+  },
+  "notes": [
+    "学校是分配单位；人员行数不能充当独立学校数。quality检查、正式查看与排课确认是不同业务动作。原始得分不含效果标签。"
+  ]
+}
