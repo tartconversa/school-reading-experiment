@@ -4,7 +4,7 @@
 
 当前可运行的是资料结构检查，不含分析、决策或服务办理程序。资料契约见 [资料契约.md](资料契约.md)，机读字段说明位于 materials/contract.json，原始记录位于 materials/data.json。
 
-使用 Python 3.11，当前资料工具无需第三方依赖。Linux 使用 python3；Windows 可使用 python。运行下面的命令会核对编号、关联关系和字段，并显示各表行数及原始资料指纹，不产生业务分析结论。
+使用 Python 3.11.2，当前资料工具无需第三方依赖。Linux 使用 python3；Windows 可使用 python。运行下面的命令会核对编号、关联关系和字段，并显示各表行数及原始资料指纹，不产生业务分析结论。
 
 ```sh
 python3 inspect_materials.py
